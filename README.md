@@ -1,1 +1,1 @@
-# Diseno-e-Implementacion-de-un-Trading-Bot-para-DeFi
+Bot de Trading Algorítmico para DeFi Basado en RSI sobre la Red Base
